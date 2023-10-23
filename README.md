@@ -1,11 +1,15 @@
 Web Application Deployment with DevOps
+
 Welcome to my DevOps project which showcases how to deploy a simple web application using Git, GitHub, Docker, AWS S3, and AWS EC2.
 
 What Is This Project About?
+
 This project is a step-by-step guide to create a DevOps pipeline, which is essentially a set of tools and practices that make it easier to develop, deploy, and maintain applications. In this case, it's all about taking a basic web application and getting it up and running in the cloud. The tools we'll use include Git for version control, Docker to package our application, GitHub for hosting our code, AWS S3 for storing files, and AWS EC2 for hosting the application itself.
 
 How Is the Project Organized?
+
 The project is organized in a structured manner:
+
 app.js: This is where you put your simple web application code, which could be written in Node.js.
 Dockerfile: This is a set of instructions that tells Docker how to package your application.
 .gitignore: It's a list of files and folders that Git should ignore.
